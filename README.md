@@ -108,7 +108,7 @@ Both versions are kept in this repo. `rfm_analysis.sql` is the v1 attempt; `rfm_
 | `rfm_analysis.sql` | v1 — standard RFM (retained to show the diagnosis) |
 | `rfm_analysis_v2.sql` | v2 — corrected Recency × Monetary segmentation |
 | `data/customer_segments.csv` | Exported segmentation output |
-| `data/purchase_frequency_dist.csv` | Exported frequency distribution |
+| `data/purchase_freq_dist.csv` | Exported frequency distribution |
 
 ## Stack
 
